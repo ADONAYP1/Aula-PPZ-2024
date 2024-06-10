@@ -6,7 +6,7 @@ Plesley Adonay de Sousa
 
 - Aula de informática, escola Pedrina 2024, série 3 ano
 
--Estamos estudando programação, Java Script
+- Estamos estudando programação, Java Script
 
 ## Gosto de ir na academia, jogar e comer
 
